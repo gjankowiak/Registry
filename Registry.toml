@@ -3,3 +3,4 @@ uuid = "ff3c9b73-c4eb-4097-be54-15159227158c"
 repo = "https://github.com/gjankowiak/Registry.git"
 
 [packages]
+7d566690-947e-42fc-bf4c-1321610e0730 = { name = "OpiForm", path = "O/OpiForm" }
