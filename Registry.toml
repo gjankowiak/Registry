@@ -1,5 +1,5 @@
-name = "Registry"
+name = "Gaspard Jankowiak's julia registry"
 uuid = "ff3c9b73-c4eb-4097-be54-15159227158c"
-repo = "gh-gjankowiak:gjankowiak/Registry.git"
+repo = "https://github.com/gjankowiak/Registry.git"
 
 [packages]
